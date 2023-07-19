@@ -1,11 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 #include <stdio.h>
-/* betty style doc for function main goes there */
-/** main - assign a random number to the value n
- *
- * return: 0 if successfuly executed, non-zero otherwise
+
+/**
+ * main - assign a random number to the value n
+ *  identifies if the last digit is greater than 5
+ *  equals to zero, or less than 6 and not equal to 0
+ * Return: 0 if successfuly executed, non-zero otherwise
  */
 int main(void)
 {
