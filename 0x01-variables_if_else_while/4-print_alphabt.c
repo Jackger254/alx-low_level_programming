@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *main - prints alphabets except e and q
- *
- *return: 0 if executed successfuly, non-zero otherwise
+ * main - prints alphabets except e and q
+ * Return: Always 0
  */
 int main(void)
 {
