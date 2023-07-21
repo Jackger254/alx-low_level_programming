@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/** main - prints a random number
+/**
+ * main - prints a random number
  *
  * Return: 0 on successful execution, non-zero otherwise
  */
