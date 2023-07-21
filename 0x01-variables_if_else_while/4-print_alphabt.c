@@ -4,7 +4,7 @@
 /**
  * main - prints alphabets except e and q
  *
- * return: 0 if executed successfuly, non-zero otherwise
+ *return: 0 if executed successfuly, non-zero otherwise
  */
 int main(void)
 {
