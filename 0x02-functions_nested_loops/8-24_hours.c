@@ -17,7 +17,7 @@ void jack_bauer(void)
 			}
 			_putchar('0' + h);
 			_putchar(':');
-			if (m < 10)
+			if (m < 60)
 			{
 				_putchar('0');
 			}
