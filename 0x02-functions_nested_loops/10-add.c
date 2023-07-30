@@ -3,7 +3,7 @@
  * add - adds two intergers
  * @k1: first interger
  * @k2: second interger
- * return: result
+ * Return: interger value
  */
 int add(int k1, int k2)
 {
